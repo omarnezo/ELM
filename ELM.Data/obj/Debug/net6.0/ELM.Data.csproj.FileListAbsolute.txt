@@ -1,0 +1,17 @@
+C:\Users\o.nazzal\Downloads\elm-test\ELM.Data\bin\Debug\net6.0\ELM.Data.deps.json
+C:\Users\o.nazzal\Downloads\elm-test\ELM.Data\bin\Debug\net6.0\ELM.Data.dll
+C:\Users\o.nazzal\Downloads\elm-test\ELM.Data\bin\Debug\net6.0\ELM.Data.pdb
+C:\Users\o.nazzal\Downloads\elm-test\ELM.Data\bin\Debug\net6.0\ELM.Common.dll
+C:\Users\o.nazzal\Downloads\elm-test\ELM.Data\bin\Debug\net6.0\ELM.Core.dll
+C:\Users\o.nazzal\Downloads\elm-test\ELM.Data\bin\Debug\net6.0\ELM.Common.pdb
+C:\Users\o.nazzal\Downloads\elm-test\ELM.Data\bin\Debug\net6.0\ELM.Core.pdb
+C:\Users\o.nazzal\Downloads\elm-test\ELM.Data\obj\Debug\net6.0\ELM.Data.csproj.AssemblyReference.cache
+C:\Users\o.nazzal\Downloads\elm-test\ELM.Data\obj\Debug\net6.0\ELM.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\o.nazzal\Downloads\elm-test\ELM.Data\obj\Debug\net6.0\ELM.Data.AssemblyInfoInputs.cache
+C:\Users\o.nazzal\Downloads\elm-test\ELM.Data\obj\Debug\net6.0\ELM.Data.AssemblyInfo.cs
+C:\Users\o.nazzal\Downloads\elm-test\ELM.Data\obj\Debug\net6.0\ELM.Data.csproj.CoreCompileInputs.cache
+C:\Users\o.nazzal\Downloads\elm-test\ELM.Data\obj\Debug\net6.0\ELM.Data.csproj.CopyComplete
+C:\Users\o.nazzal\Downloads\elm-test\ELM.Data\obj\Debug\net6.0\ELM.Data.dll
+C:\Users\o.nazzal\Downloads\elm-test\ELM.Data\obj\Debug\net6.0\refint\ELM.Data.dll
+C:\Users\o.nazzal\Downloads\elm-test\ELM.Data\obj\Debug\net6.0\ELM.Data.pdb
+C:\Users\o.nazzal\Downloads\elm-test\ELM.Data\obj\Debug\net6.0\ref\ELM.Data.dll

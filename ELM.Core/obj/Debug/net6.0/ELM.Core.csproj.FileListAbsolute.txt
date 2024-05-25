@@ -1,0 +1,12 @@
+C:\Users\o.nazzal\Downloads\elm-test\ELM.Core\bin\Debug\net6.0\ELM.Core.deps.json
+C:\Users\o.nazzal\Downloads\elm-test\ELM.Core\bin\Debug\net6.0\ELM.Core.dll
+C:\Users\o.nazzal\Downloads\elm-test\ELM.Core\bin\Debug\net6.0\ELM.Core.pdb
+C:\Users\o.nazzal\Downloads\elm-test\ELM.Core\obj\Debug\net6.0\ELM.Core.csproj.AssemblyReference.cache
+C:\Users\o.nazzal\Downloads\elm-test\ELM.Core\obj\Debug\net6.0\ELM.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\o.nazzal\Downloads\elm-test\ELM.Core\obj\Debug\net6.0\ELM.Core.AssemblyInfoInputs.cache
+C:\Users\o.nazzal\Downloads\elm-test\ELM.Core\obj\Debug\net6.0\ELM.Core.AssemblyInfo.cs
+C:\Users\o.nazzal\Downloads\elm-test\ELM.Core\obj\Debug\net6.0\ELM.Core.csproj.CoreCompileInputs.cache
+C:\Users\o.nazzal\Downloads\elm-test\ELM.Core\obj\Debug\net6.0\ELM.Core.dll
+C:\Users\o.nazzal\Downloads\elm-test\ELM.Core\obj\Debug\net6.0\refint\ELM.Core.dll
+C:\Users\o.nazzal\Downloads\elm-test\ELM.Core\obj\Debug\net6.0\ELM.Core.pdb
+C:\Users\o.nazzal\Downloads\elm-test\ELM.Core\obj\Debug\net6.0\ref\ELM.Core.dll
